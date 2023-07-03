@@ -13,7 +13,6 @@ add no-ff mode
 df
 
 
-issue-001
 ok,learn git again
 test branch
 
