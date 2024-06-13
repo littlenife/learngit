@@ -23,3 +23,4 @@ Git is a free software ...
 
 ok,learn git again
 test branch
+Creating a new branch is quick AND simple.
