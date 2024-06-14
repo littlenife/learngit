@@ -9,6 +9,16 @@ add no-ff mode
 
 
 
+
 df
 
+
 issue-001
+ok,learn git again
+test branch
+
+Creating a new branch is quick and simple.
+test merge mode
+Git is a free software ...
+
+
