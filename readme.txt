@@ -15,16 +15,8 @@ df
 
 ok,learn git again
 test branch
-<<<<<<< HEAD
 
 Creating a new branch is quick and simple.
 test merge mode
 Git is a free software ...
 
-
-ok,learn git again
-test branch
-Creating a new branch is quick AND simple.
-Creating a new branch is quick and simple.
-test merge mode
-Git is a free software ...
