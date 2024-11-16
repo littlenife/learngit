@@ -1,0 +1,7 @@
+this is a test !
+learn git again.
+
+add a new line.
+
+
+learn git reset soft
