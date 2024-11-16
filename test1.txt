@@ -2,4 +2,9 @@ add a new line
 
 add a new line again.
 
+<<<<<<< HEAD
 yes/do 
+=======
+add feature1
+add feature2 
+>>>>>>> 7bdc905c2feaed05c41e811783f9071ad9459621
